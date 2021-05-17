@@ -1,0 +1,333 @@
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 140px;
+}
+.navigation{
+	display: inline-block;
+}
+.nav-li{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left:119px;
+}
+ul{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
+.nav-a{
+	color: #181C28; 
+}
+.header-wraper{
+	position:fixed;
+	width: 100%;
+	background-color: white;
+	z-index: 30;
+
+}
+.fashion{
+	width: 1600px;
+	height: 382px;
+	margin-top: 24px;
+	z-index: 6
+}
+
+
+
+.image-wraper img{
+	position: relative;
+	width: 100%;
+	z-index: -10;
+	margin-top: 101px;
+}
+
+
+.main_text {
+	margin-top: -100px;
+}
+
+.text-image{
+	color:#FFFFFF;
+	
+	font-size:22;
+}
+
+
+.text-image2{
+	font-size: 48px;
+
+	color: #FFFFFF; 
+}
+
+
+.title{
+	color:#FF7A00;
+	font-size: 22px;
+	margin-top:84px;
+	margin-left: 172px;
+	margin-bottom: 81px;
+}
+
+.title2{
+	font-size: 36px;
+	color: #181C28;
+}
+
+
+.paragraph1{
+	font-size: #7B7B7B;
+	color:#7B7B7B;
+	margin-top:22px;
+	width: 636px;
+}
+.title3{
+    font-size: 36px;
+	color: #181C28;
+}
+.paragraph2{
+	font-size: #7B7B7B;
+	color:#7B7B7B;
+	margin-top:22px;
+	width: 636px;
+}
+.left-block{
+	width: 663px;
+	margin-top: 81px;
+	margin-left: 138px;
+	display: inline-block;
+}
+.right-block{
+	display: inline-block;
+	width: 663px;
+	margin-left: 52px
+	margin-top:81px;
+}
+.left-bottom-block{
+	width: 663px;
+	margin-top: 81px;
+	margin-left: 138px;
+	display: inline-block;
+}
+.right-bottom-block{
+	display: inline-block;
+	width: 663px;
+	display: inline-block;
+	margin-left: 52px
+	margin-top:81px;
+}
+.title4{
+	font-size: 36px;
+	color: #181C28;
+}
+.title5{
+	font-size: 36px;
+	color: #181C28;
+}
+.paragraph3{
+	font-size: #7B7B7B;
+	color:#7B7B7B;
+	margin-top:22px;
+	width: 636px;
+}
+.paragraph4{
+	font-size: #7B7B7B;
+	color:#7B7B7B;
+	margin-top:22px;
+	width: 636px;
+}
+.read{
+	color:#FF7A00;
+	margin-top:13px;
+	margin-left:15px;
+	
+}
+.read2{
+	color:#FF7A00;
+	margin-top:13px;
+}
+.read3{
+	color:#FF7A00;
+	margin-top:13px;
+	margin-left:15px;
+}
+.read4{
+	color:#FF7A00;
+	margin-top:13px;
+}
+.box-wraper{
+	width: 194px;
+	height: 63px;
+	background-color:#FF7A00;
+	position: relative;
+	top:73px;
+	left:701px;
+	right:705px;
+	bottom: 134px;
+}
+.child-text{
+	width: 190px;
+	height: 70px;
+	position: absolute;
+}
+.child-text2{
+	position: absolute;
+	left:70px;
+	top:16px;
+	right:48px;
+	bottom:12px ;
+	color: #FFFFFF;
+}
+.black-box{
+    width: 100%;
+    height:266px;
+    background-color: #181C28;
+}
+
+
+/*footer*/
+footer {
+	margin-top: 134px;
+}
+.company{
+	font-size:24px;
+	color: #282828;
+	margin-left:0px;
+	margin-top:82px;
+
+}
+.company-line{
+	font-size:16px;
+	color:#7B7B7B;
+	margin left:138px;
+	margin-top:25px;
+	margin-right: 234px;
+}
+
+.div-1{
+	margin-left:138px ;
+	display:inline-block;
+}
+.line1{
+
+	margin-top:10px;
+
+	}
+.line2{
+	margin-top:5px;
+}
+.line3{
+	margin-top:5px;
+}
+.line4{
+	margin-top:5px;
+}
+.line5{
+	margin-top:5px;
+
+}
+.service-div{
+	display: inline-block;
+}
+.service{
+	font-size:24px;
+	color: #282828;
+	margin-left:0px;
+	margin-top:-25px;
+	position: absolute;
+}
+.list1{
+	margin-top:10px;
+}
+.list2{
+	margin-top:5px;
+}
+.list3{
+	margin-top:5px;
+}
+.list4{
+	margin-top:5px;
+}
+.list5{
+	margin-top:5px;
+}
+.service-line{
+	font-size:16px;
+	color:#7B7B7B;
+	margin left:138px;
+	margin-top:25px;
+	margin-right: 234px;
+}
+.orders-div{
+	display: inline-block;
+}
+
+
+.orders-line{
+    font-size:24px;
+	color: #282828;
+	margin-left:0px;
+	margin-top:-25px;
+	position: absolute;
+}
+.order-line1{
+	margin-top:10px;
+}
+
+.order-line2{
+	margin-top:5px;
+}
+
+.order-line3{
+	margin-top:5px;
+}
+
+.order-line4{
+	margin-top:5px;
+}
+
+.order-line5{
+	margin-top:5px;
+}
+
+.order-line{
+	font-size:16px;
+	color:#7B7B7B;
+	margin left:138px;
+	margin-top:25px;
+	margin-right: 234px;
+}
+.pay{
+	display: inline-block;
+}
+.paymant{
+	font-size:24px;
+	color: #282828;
+	margin-left:217px;
+	margin-top:-130px;
+	position: absolute;
+}
+.icons{
+    display: inline-block;
+    padding-left: 250px;
+    padding-top: 0px;
+
+}
+.america{
+	display: inline-block;
+	padding-top: 80px;
+}
+.master{
+	display: inline-block;
+}
+.visa{
+	display: inline-block;
+}
+.copy{
+	color:#A4A4A4;
+	font-size:16px;
+	margin-left:1187px;
+	margin-top: 160px;
+	margin-right:120px;
+}
